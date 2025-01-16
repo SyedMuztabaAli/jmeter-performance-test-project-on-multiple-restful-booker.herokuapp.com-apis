@@ -106,8 +106,9 @@
 <pre>
   GUI Mode
 </pre>
-![Screenshot 2024-12-20 201302](https://github.com/user-attachments/assets/66c43c81-a32e-4601-b4d2-90b054a609ed)
-![Screenshot 2024-12-20 202008](https://github.com/user-attachments/assets/31ff66a0-db5d-4b3f-b331-f0c976e38819)
+![Screenshot 2024-12-20 202730](https://github.com/user-attachments/assets/bf31b892-b2cf-4627-9462-3c3350d7f1ff)
+![Screenshot 2024-12-20 202805](https://github.com/user-attachments/assets/daa2394d-1d3c-43c2-8913-6adc6e3f84a9)
+
 <pre>
   CLI(Non-GUI) Mode
 </pre>
@@ -120,8 +121,9 @@
 <pre>
   GUI Mode
 </pre>
-![Screenshot 2024-12-20 201302](https://github.com/user-attachments/assets/66c43c81-a32e-4601-b4d2-90b054a609ed)
-![Screenshot 2024-12-20 202008](https://github.com/user-attachments/assets/31ff66a0-db5d-4b3f-b331-f0c976e38819)
+![Screenshot 2024-12-20 203006](https://github.com/user-attachments/assets/0eb0cf8b-71d0-44e6-b828-522cf64ce6d7)
+![Screenshot 2024-12-20 203034](https://github.com/user-attachments/assets/f2b7fdcb-1c9f-41a7-ad55-c44f9b0d2aee)
+
 <pre>
   CLI(Non-GUI) Mode
 </pre>
@@ -134,8 +136,9 @@
 <pre>
   GUI Mode
 </pre>
-![Screenshot 2024-12-20 201302](https://github.com/user-attachments/assets/66c43c81-a32e-4601-b4d2-90b054a609ed)
-![Screenshot 2024-12-20 202008](https://github.com/user-attachments/assets/31ff66a0-db5d-4b3f-b331-f0c976e38819)
+![m](https://github.com/user-attachments/assets/454a16e3-1b92-450e-a316-a77b5a71f3a0)
+![Screenshot 2024-12-20 203536](https://github.com/user-attachments/assets/18a81bbb-4e7c-40ef-9eae-9e37edbe474e)
+
 <pre>
   CLI(Non-GUI) Mode
 </pre>
@@ -148,8 +151,9 @@
 <pre>
   GUI Mode
 </pre>
-![Screenshot 2024-12-20 201302](https://github.com/user-attachments/assets/66c43c81-a32e-4601-b4d2-90b054a609ed)
-![Screenshot 2024-12-20 202008](https://github.com/user-attachments/assets/31ff66a0-db5d-4b3f-b331-f0c976e38819)
+![Screenshot 2024-12-20 203240](https://github.com/user-attachments/assets/0d2acb99-aa1b-4e5d-9659-5cdbfce33e7c)
+![Screenshot 2024-12-20 203311](https://github.com/user-attachments/assets/e105efc0-0e32-43b2-867c-cd1dbae9f715)
+
 <pre>
   CLI(Non-GUI) Mode
 </pre>
@@ -162,8 +166,8 @@
 <pre>
   GUI Mode
 </pre>
-![Screenshot 2024-12-20 201302](https://github.com/user-attachments/assets/66c43c81-a32e-4601-b4d2-90b054a609ed)
-![Screenshot 2024-12-20 202008](https://github.com/user-attachments/assets/31ff66a0-db5d-4b3f-b331-f0c976e38819)
+![Screenshot 2024-12-20 203806](https://github.com/user-attachments/assets/2c9c2abd-28c4-4c20-aab9-aaf9d28cf04d)
+![Screenshot 2024-12-20 203833](https://github.com/user-attachments/assets/7d04083a-6fdf-499c-bbd5-87b90b422c12)
 <pre>
   CLI(Non-GUI) Mode
 </pre>
@@ -176,13 +180,14 @@
 <pre>
   GUI Mode
 </pre>
-![Screenshot 2024-12-20 201302](https://github.com/user-attachments/assets/66c43c81-a32e-4601-b4d2-90b054a609ed)
-![Screenshot 2024-12-20 202008](https://github.com/user-attachments/assets/31ff66a0-db5d-4b3f-b331-f0c976e38819)
+![Screenshot 2024-12-20 204158](https://github.com/user-attachments/assets/81e71930-3079-4b13-8b18-fd02a550dc7c)
+![Screenshot 2024-12-20 204225](https://github.com/user-attachments/assets/49bede5f-eb6c-442c-a432-d0d539fee5c8)
 <pre>
   CLI(Non-GUI) Mode
 </pre>
 ![Screenshot 2024-12-25 015300](https://github.com/user-attachments/assets/2342fb99-0172-4a41-a960-44d67565f758)
 ![Screenshot 2024-12-25 015137](https://github.com/user-attachments/assets/eee70f53-6fb6-4d32-9d8e-e13367e5612e)
+
 
 <pre>
   <b>For 2000 Threads</b>
@@ -190,27 +195,13 @@
 <pre>
   GUI Mode
 </pre>
-![Screenshot 2024-12-20 201302](https://github.com/user-attachments/assets/66c43c81-a32e-4601-b4d2-90b054a609ed)
-![Screenshot 2024-12-20 202008](https://github.com/user-attachments/assets/31ff66a0-db5d-4b3f-b331-f0c976e38819)
+![Screenshot 2024-12-21 030657](https://github.com/user-attachments/assets/e5396d0d-1066-4552-aa71-62dde7f353b9)
+![Screenshot 2024-12-21 030722](https://github.com/user-attachments/assets/c175165d-8f94-4060-bf2f-9567863d37c5)
 <pre>
   CLI(Non-GUI) Mode
 </pre>
 ![Screenshot 2024-12-25 015300](https://github.com/user-attachments/assets/2342fb99-0172-4a41-a960-44d67565f758)
-![Screenshot 2024-12-25 015137](https://github.com/user-attachments/assets/eee70f53-6fb6-4d32-9d8e-e13367e5612e)
-
-<pre>
-  <b>For 2500 Threads</b>
-</pre>
-<pre>
-  GUI Mode
-</pre>
-![Screenshot 2024-12-20 201302](https://github.com/user-attachments/assets/66c43c81-a32e-4601-b4d2-90b054a609ed)
-![Screenshot 2024-12-20 202008](https://github.com/user-attachments/assets/31ff66a0-db5d-4b3f-b331-f0c976e38819)
-<pre>
-  CLI(Non-GUI) Mode
-</pre>
-![Screenshot 2024-12-25 015300](https://github.com/user-attachments/assets/2342fb99-0172-4a41-a960-44d67565f758)
-![Screenshot 2024-12-25 015137](https://github.com/user-attachments/assets/eee70f53-6fb6-4d32-9d8e-e13367e5612e)
+![Screenshot 2024-12-25 015137](https://github.com/user-attachments/assets/eee7f53-6fb6-4d32-9d8e-e13367e5612e)
 
 <pre>
   <b>For 3000 Threads</b>
@@ -218,8 +209,8 @@
 <pre>
   GUI Mode
 </pre>
-![Screenshot 2024-12-20 201302](https://github.com/user-attachments/assets/66c43c81-a32e-4601-b4d2-90b054a609ed)
-![Screenshot 2024-12-20 202008](https://github.com/user-attachments/assets/31ff66a0-db5d-4b3f-b331-f0c976e38819)
+![Screenshot 2024-12-24 234718](https://github.com/user-attachments/assets/e5fb3c67-5d08-4764-9779-0d55d8066b71)
+![Screenshot 2024-12-24 234747](https://github.com/user-attachments/assets/f6e40d42-024c-4e54-80f5-099e7f513801)
 <pre>
   CLI(Non-GUI) Mode
 </pre>
