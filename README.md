@@ -214,8 +214,9 @@
 <pre>
   CLI(Non-GUI) Mode
 </pre>
-![Screenshot 2024-12-25 015300](https://github.com/user-attachments/assets/2342fb99-0172-4a41-a960-44d67565f758)
-![Screenshot 2024-12-25 015137](https://github.com/user-attachments/assets/eee70f53-6fb6-4d32-9d8e-e13367e5612e)
+![3000](https://github.com/user-attachments/assets/ac0d9ed8-36f3-43c5-8ce6-6691ca92f355)
+![301](https://github.com/user-attachments/assets/3996d4f0-5f0e-43f4-834c-8ea01f334cb0)
+![302](https://github.com/user-attachments/assets/6786383b-caaf-4b89-b175-d2e113fba682)
 <pre>
   To run and generate report in CLI Mode for 100 threads run following commands:
 </pre>
